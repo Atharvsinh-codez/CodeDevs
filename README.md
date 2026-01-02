@@ -346,6 +346,9 @@ Verify your `DATABASE_URL` is correct and that the database is accessible. Ensur
 - [LICENSE](./LICENSE) - GNU General Public License v3.0
 
 ## Contributing
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#Atharvsinh-codez/CodeDevs&type=date&legend=top-left" frameBorder="0"></iframe>
+
+
 
 Contributions are welcome. Please feel free to submit a Pull Request.
 
