@@ -246,6 +246,10 @@ The application uses a database-backed caching system for most endpoints:
 - Cache is checked before making external API calls
 - Most portfolio endpoints use caching to reduce API calls and improve performance
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Atharvsinh-codez/CodeDevs&type=Date)](https://star-history.com/#Atharvsinh-codez/CodeDevs&Date)
+
 
 ### Other Platforms
 
