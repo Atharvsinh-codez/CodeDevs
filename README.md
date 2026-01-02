@@ -1,3 +1,6 @@
+<img width="1751" height="878" alt="image" src="https://github.com/user-attachments/assets/5330e471-e1f0-4404-aa35-d57d995bcea0" />
+
+
 # CodeDevs
 
 CodeDevs is an AI-powered portfolio generator that automatically creates beautiful developer portfolios from GitHub profiles. It fetches your GitHub data, uses AI to generate professional summaries and highlights, and presents everything in a modern, responsive portfolio website.
